@@ -36,7 +36,7 @@ public class Caneta {
 
     public void status() {
         System.out.println("SOBRE A CANETA");
-        System.out.println("Modelo: " + this.modelo); //modelo mexendo diretamente no atributo
+        System.out.println("Modelo: " + this.modelo); //mexendo diretamente no atributo
         System.out.println("Ponta: " + this.getPonta()); 
         System.out.println("Cor: " + this.cor);
         System.out.println("Tampada: " + this.tampada);
