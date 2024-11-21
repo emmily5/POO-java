@@ -1,5 +1,7 @@
 package aula06;
 
+import ultraemojicombat.Controlador;
+
 public class ControleRemoto implements Controlador {
 
     //Atributos

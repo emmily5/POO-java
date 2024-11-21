@@ -1,4 +1,4 @@
-package aula06;
+package ultraemojicombat;
 
 public interface Controlador {
     public abstract void ligar();
